@@ -7,13 +7,11 @@
 
 🔧 Tech Stack : 
 
-🚀 Frontend: React, Next.js, Tailwind CSS
+🚀 Frontend: React, Next.js, Tailwind CSS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Database: MongoDB, Firebase
 
-🛠 Backend: Node.js, Express.js, Flask, .NET
+🛠 Backend: Node.js, Express.js, Flask, .NET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI/ML: TensorFlow, OpenCV, NumPy
 
-📦 Database: MongoDB, Firebase
 
-🤖 AI/ML: TensorFlow, OpenCV, NumPy
 
 ⚙ Tools: Git, Postman, Netlify, Vercel, Railway
 
