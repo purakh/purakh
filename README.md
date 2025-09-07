@@ -2,7 +2,7 @@
 
 🌍 Passionate about Web Development, AI/ML, and Problem-Solving.
 
-🔹 Languages: Java, Python, C, JavaScript, Typescript.  
+🔹 Languages: Java, Python, JavaScript, Typescript.  
 
 
 🔧 Tech Stack : 
