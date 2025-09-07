@@ -2,14 +2,14 @@
 
 🌍 Passionate about Web Development, AI/ML, and Problem-Solving.
 
-🔹 Languages: Java, Python, C, JavaScript.  
+🔹 Languages: Java, Python, C, JavaScript, Typescript.  
 
 
 🔧 Tech Stack : 
 
-🚀 Frontend: React, Next.js, Tailwind CSS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Database: MongoDB, Firebase
+🚀 Frontend: React, Angular.js, Tailwind CSS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📦 Database: MongoDB, MySQL
 
-🛠 Backend: Node.js, Express.js, Flask, .NET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI/ML: TensorFlow, OpenCV, NumPy
+🛠 Backend: Node.js, Express.js, Flask, SpringBoot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI/ML: TensorFlow, OpenCV, NumPy
 
 
 
