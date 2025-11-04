@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍💻 About Me
-💡 Passionate about **Web Development**, **Artificial Intelligence**, and **Problem Solving**.<br>
+💡 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Problem Solving**.<br>
 🌍 Building scalable, performant apps that make an impact.<br>
-🎯 Currently exploring **AI-powered web systems** & **microservice architectures**.<br>
+🎯 Currently exploring **Full stack roles**.<br>
 📚 Always learning. Always improving.
 
 ---
@@ -62,20 +62,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PurushSingh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=purakh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ### 💬 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/purushottam-singh" target="_blank">
+  <a href="[https://linkedin.com/in/purushottam-singh](https://www.linkedin.com/in/purushottam-singh-jakrewale-a88297170/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:purushsingh.dev@gmail.com">
+  <a href="mailto:purakhsingh108@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/PurushSingh">
+  <a href="https://github.com/purakh">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
